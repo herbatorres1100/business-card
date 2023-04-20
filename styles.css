@@ -9,6 +9,8 @@ body {
 }
 
 .avatar {
+    border: 2px solid skyblue;
+    border-radius: 30%;
     width: 150px;
 }
 
